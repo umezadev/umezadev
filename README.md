@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I'am Uriel Meza,
+## I am a **computer engineering** student.
+### My habilities
+* Python
+* C#
 
 <!--
 **umezadev/umezadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
